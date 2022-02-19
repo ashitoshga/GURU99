@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43829" started-at="2019-07-15T15:02:29Z" finished-at="2019-07-15T15:03:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43829" started-at="2019-07-15T15:02:29Z" finished-at="2019-07-15T15:03:13Z">
+      <class name="com.qa.guru99.testcases.HomepageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.guru99.testcases.HomepageTest@5442a311]" name="setup" is-config="true" duration-ms="26137" started-at="2019-07-15T20:32:29Z" finished-at="2019-07-15T20:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomepage_title()[pri:0, instance:com.qa.guru99.testcases.HomepageTest@5442a311]" name="verifyHomepage_title" duration-ms="523" started-at="2019-07-15T20:32:55Z" finished-at="2019-07-15T20:32:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepage_title -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.guru99.testcases.HomepageTest@5442a311]" name="teardown" is-config="true" duration-ms="1565" started-at="2019-07-15T20:32:56Z" finished-at="2019-07-15T20:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.guru99.testcases.HomepageTest@5442a311]" name="setup" is-config="true" duration-ms="13603" started-at="2019-07-15T20:32:57Z" finished-at="2019-07-15T20:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomepage_title()[pri:0, instance:com.qa.guru99.testcases.HomepageTest@5442a311]" name="verifyHomepage_title" duration-ms="465" started-at="2019-07-15T20:33:11Z" finished-at="2019-07-15T20:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepage_title -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.guru99.testcases.HomepageTest@5442a311]" name="teardown" is-config="true" duration-ms="1513" started-at="2019-07-15T20:33:11Z" finished-at="2019-07-15T20:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.guru99.testcases.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
